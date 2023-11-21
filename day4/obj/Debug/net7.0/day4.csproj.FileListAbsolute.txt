@@ -1,0 +1,15 @@
+/Users/abc/Desktop/ProjectsTrining/day4.solution/day4/bin/Debug/net7.0/day4
+/Users/abc/Desktop/ProjectsTrining/day4.solution/day4/bin/Debug/net7.0/day4.deps.json
+/Users/abc/Desktop/ProjectsTrining/day4.solution/day4/bin/Debug/net7.0/day4.runtimeconfig.json
+/Users/abc/Desktop/ProjectsTrining/day4.solution/day4/bin/Debug/net7.0/day4.dll
+/Users/abc/Desktop/ProjectsTrining/day4.solution/day4/bin/Debug/net7.0/day4.pdb
+/Users/abc/Desktop/ProjectsTrining/day4.solution/day4/obj/Debug/net7.0/day4.csproj.AssemblyReference.cache
+/Users/abc/Desktop/ProjectsTrining/day4.solution/day4/obj/Debug/net7.0/day4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abc/Desktop/ProjectsTrining/day4.solution/day4/obj/Debug/net7.0/day4.AssemblyInfoInputs.cache
+/Users/abc/Desktop/ProjectsTrining/day4.solution/day4/obj/Debug/net7.0/day4.AssemblyInfo.cs
+/Users/abc/Desktop/ProjectsTrining/day4.solution/day4/obj/Debug/net7.0/day4.csproj.CoreCompileInputs.cache
+/Users/abc/Desktop/ProjectsTrining/day4.solution/day4/obj/Debug/net7.0/day4.dll
+/Users/abc/Desktop/ProjectsTrining/day4.solution/day4/obj/Debug/net7.0/refint/day4.dll
+/Users/abc/Desktop/ProjectsTrining/day4.solution/day4/obj/Debug/net7.0/day4.pdb
+/Users/abc/Desktop/ProjectsTrining/day4.solution/day4/obj/Debug/net7.0/day4.genruntimeconfig.cache
+/Users/abc/Desktop/ProjectsTrining/day4.solution/day4/obj/Debug/net7.0/ref/day4.dll
