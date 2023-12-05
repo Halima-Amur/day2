@@ -1,5 +1,9 @@
 ﻿<Properties StartupConfiguration="{04C4EFC0-2713-418D-AAAF-B8A10CEFAC38}|Default">
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="day4/Program.cs">
     <Files>
       <File FileName="day4/Program.cs" Line="31" Column="30" />
@@ -7,8 +11,8 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="day4.solution" expanded="True">
-            <Node name="day4" expanded="True">
+          <Node name="day4.solution">
+            <Node name="day4">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,10 +20,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.day4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
 </Properties>
